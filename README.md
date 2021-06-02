@@ -1,16 +1,15 @@
-### Hi there 👋
+##个人主页
 
-<!--
-**tcc358/tcc358** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#个人信息：
 
-Here are some ideas to get you started:
+姓名：汤灿
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+性别：女
+
+名族：汉
+
+出生年月：2001.05.18
+
+#教育经历
+
+高中：信阳一高
