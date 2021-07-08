@@ -7,16 +7,18 @@
 
 出生年月：2001年4月
 
+政治面貌：共青团团员
+
 邮箱①：sysr2893@163.com
 
 # 教育背景
 
-高中：信阳一高&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp2016.9----2019.6
+高中：信阳一高&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2016.9----2019.6
 
-
-[郑州财税金融职业学院](http://www.zzcsjr.edu.cn/)
+大学：[郑州财税金融职业学院](http://www.zzcsjr.edu.cn/)
 
 所学专业：会计信息管理            专业第二名
+
 
 
 
